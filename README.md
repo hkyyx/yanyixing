@@ -2,9 +2,3 @@
 
 <p>Welcome to my page! </br> I'm yanyx, a Cloud Computing Engineer from <img src="https://cdn-icons-png.flaticon.com/512/307/307417.png" width="13"/> <b>Shanghai, China</b>. </p>
 
-<h3>Github Stats</h3>
-
-[![](https://raw.githubusercontent.com/yanyixing/yanyixing/master/profile-summary-card-output/solarized_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yanyixing/yanyixing/master/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yanyixing/yanyixing/master/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/yanyixing/yanyixing/master/profile-summary-card-output/solarized_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yanyixing/yanyixing/master/profile-summary-card-output/solarized_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
