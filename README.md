@@ -20,15 +20,16 @@ Cloud infrastructure and SRE engineer based in Shanghai, China. I build reliable
 
 AWS · Kubernetes · Python · TypeScript · Shell · Docker · Terraform · Jsonnet · PostgreSQL · Redis
 
+### Operating principles
+
+- Prefer reliable, observable systems over clever automation
+- Keep production access controlled, auditable, and reversible
+- Turn incidents into better runbooks, tooling, and platform defaults
+
 ### GitHub snapshot
 
 <p>
   <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" />
-</p>
-
-<p>
-  <img src="profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub stats" />
-  <img src="profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top languages by repository" />
 </p>
 
 ### Contact
