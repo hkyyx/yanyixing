@@ -33,6 +33,10 @@ I build production infrastructure and operational tooling for Kubernetes and AWS
 
 AWS · Kubernetes · Bedrock AgentCore · MCP · Python · TypeScript · Shell · Docker · Terraform · Jsonnet · PostgreSQL · Redis
 
+### LLM Token Activity
+
+![LLM Token Activity](https://raw.githubusercontent.com/hkyyx/hkyyx/main/assets/token-activity.svg)
+
 ### Contact
 
 Shanghai, China · yixingyan@gmail.com

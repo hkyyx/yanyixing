@@ -1,0 +1,231 @@
+{
+  "version": 1,
+  "timezone": "Asia/Shanghai",
+  "records": [
+    {
+      "date": "2026-05-14",
+      "platform": "claude",
+      "inputTokens": 6214,
+      "outputTokens": 8949,
+      "totalTokens": 15163,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.698Z"
+    },
+    {
+      "date": "2026-05-18",
+      "platform": "codex",
+      "inputTokens": 440909,
+      "outputTokens": 1884,
+      "totalTokens": 442793,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-05-19",
+      "platform": "codex",
+      "inputTokens": 1226251,
+      "outputTokens": 2820,
+      "totalTokens": 1229071,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-05-24",
+      "platform": "codex",
+      "inputTokens": 1392041,
+      "outputTokens": 4740,
+      "totalTokens": 1396781,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-05-26",
+      "platform": "codex",
+      "inputTokens": 1141179,
+      "outputTokens": 5241,
+      "totalTokens": 1146420,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-05-27",
+      "platform": "codex",
+      "inputTokens": 1014953,
+      "outputTokens": 7600,
+      "totalTokens": 1022553,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-05-28",
+      "platform": "codex",
+      "inputTokens": 2629355,
+      "outputTokens": 31117,
+      "totalTokens": 2660472,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-05-29",
+      "platform": "codex",
+      "inputTokens": 79628560,
+      "outputTokens": 108262,
+      "totalTokens": 79736822,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-05-30",
+      "platform": "codex",
+      "inputTokens": 92347973,
+      "outputTokens": 115664,
+      "totalTokens": 92463637,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-05-31",
+      "platform": "codex",
+      "inputTokens": 17816513,
+      "outputTokens": 26621,
+      "totalTokens": 17843134,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-06-01",
+      "platform": "codex",
+      "inputTokens": 4106675,
+      "outputTokens": 19936,
+      "totalTokens": 4126611,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-06-01",
+      "platform": "cursor",
+      "inputTokens": 120000,
+      "outputTokens": 45000,
+      "totalTokens": 165000,
+      "source": "local",
+      "collectedAt": "2026-06-01T16:00:00.000Z"
+    },
+    {
+      "date": "2026-06-02",
+      "platform": "codex",
+      "inputTokens": 677484,
+      "outputTokens": 25190,
+      "totalTokens": 702674,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-06-03",
+      "platform": "claude",
+      "inputTokens": 95000,
+      "outputTokens": 31000,
+      "totalTokens": 126000,
+      "source": "local",
+      "collectedAt": "2026-06-03T16:00:00.000Z"
+    },
+    {
+      "date": "2026-06-03",
+      "platform": "codex",
+      "inputTokens": 9824890,
+      "outputTokens": 54232,
+      "totalTokens": 9879122,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-06-04",
+      "platform": "codex",
+      "inputTokens": 17930403,
+      "outputTokens": 45127,
+      "totalTokens": 17975530,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-06-05",
+      "platform": "codex",
+      "inputTokens": 25845872,
+      "outputTokens": 65276,
+      "totalTokens": 25911148,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-06-06",
+      "platform": "codex",
+      "inputTokens": 49031479,
+      "outputTokens": 109637,
+      "totalTokens": 49141116,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-06-07",
+      "platform": "codex",
+      "inputTokens": 24751564,
+      "outputTokens": 71964,
+      "totalTokens": 24823528,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-06-08",
+      "platform": "codex",
+      "inputTokens": 3558571,
+      "outputTokens": 9298,
+      "totalTokens": 3567869,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-06-09",
+      "platform": "codex",
+      "inputTokens": 1838093,
+      "outputTokens": 16892,
+      "totalTokens": 1854985,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-06-10",
+      "platform": "codex",
+      "inputTokens": 74022876,
+      "outputTokens": 150098,
+      "totalTokens": 74172974,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-06-10",
+      "platform": "custom",
+      "inputTokens": 12000,
+      "outputTokens": 3400,
+      "totalTokens": 15400,
+      "source": "csv",
+      "collectedAt": "2026-06-12T03:05:16.587Z"
+    },
+    {
+      "date": "2026-06-11",
+      "platform": "codex",
+      "inputTokens": 99765926,
+      "outputTokens": 128828,
+      "totalTokens": 99894754,
+      "source": "local",
+      "collectedAt": "2026-06-12T03:05:16.710Z"
+    },
+    {
+      "date": "2026-06-11",
+      "platform": "custom",
+      "inputTokens": 13600,
+      "outputTokens": 3900,
+      "totalTokens": 17500,
+      "source": "csv",
+      "collectedAt": "2026-06-12T03:05:16.587Z"
+    }
+  ]
+}
