@@ -32,12 +32,6 @@ I build production infrastructure and operational tooling for Kubernetes and AWS
 
 AWS · Kubernetes · Python · TypeScript · Shell · Docker · Terraform · Jsonnet · PostgreSQL · Redis
 
-### GitHub snapshot
-
-<p>
-  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub profile details" />
-</p>
-
 ### Contact
 
 Shanghai, China · yixingyan@gmail.com
