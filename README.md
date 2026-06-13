@@ -35,7 +35,7 @@ AWS · Kubernetes · Bedrock AgentCore · MCP · Python · TypeScript · Shell �
 
 ### LLM Token Activity
 
-![LLM Token Activity](https://raw.githubusercontent.com/hkyyx/hkyyx/main/assets/token-activity.svg)
+![LLM Token Activity](https://raw.githubusercontent.com/hkyyx/hkyyx/master/assets/token-activity.svg)
 
 ### Contact
 
