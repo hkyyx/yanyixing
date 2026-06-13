@@ -1,30 +1,36 @@
-<h1 align="left">Hi, I'm Hank Yan <code>yanyx</code></h1>
+<h1 align="left">Hank Yan <code>yanyx</code></h1>
 
-Cloud infrastructure and SRE engineer based in Shanghai, China. I build reliable platforms, Kubernetes operations workflows, and AI-assisted incident response systems.
+<p>
+  <strong>Cloud Infrastructure / SRE / AI-assisted Operations</strong><br />
+  Shanghai, China
+</p>
 
-### What I work on
+I build production infrastructure and operational tooling for Kubernetes and AWS environments, with a focus on reliability, observability, and safe automation. Recently, I have been working on SRE agents that turn alerts, runbooks, and platform evidence into actionable incident analysis.
 
-- Kubernetes / EKS operations, platform reliability, and production troubleshooting
-- AWS infrastructure, Bedrock AgentCore, MCP integrations, and operational automation
-- Alertmanager-driven incident triage, runbook-backed diagnosis, and safe remediation paths
-- Infrastructure-as-code, release pipelines, documentation, and developer-facing operational tools
+### Focus areas
 
-### Current focus
+- Kubernetes / EKS production operations: troubleshooting, release safety, cluster access patterns, and platform reliability
+- AWS infrastructure: IAM, networking, Bedrock AgentCore, MCP-backed tooling, and environment-aware automation
+- Incident workflows: Alertmanager intake, triage, evidence collection, escalation context, and post-incident improvements
+- Infrastructure systems: Terraform, Jsonnet, CI/CD, documentation, and operator-facing runbooks
 
-- Building SRE agents that analyze alerts before humans jump into an incident
+### Current work
+
+- Designing SRE agents that analyze production alerts before responders engage
 - Connecting Kubernetes, AWS, and runbook evidence through controlled tool access
-- Keeping automation useful, auditable, and boring in the best possible way
-- Turning hard-won operational lessons into reusable docs, scripts, and workflows
+- Building automation that stays auditable, reversible, and useful under pressure
+- Turning repeated operational lessons into durable platform defaults
 
-### Tech I use often
+### Engineering principles
+
+- Reliability first: optimize for observable, understandable systems over clever automation
+- Least privilege by default: production access should be scoped, reviewed, and easy to audit
+- Human-in-the-loop operations: automation should explain, recommend, and reduce toil before it remediates
+- Incidents should compound into better tooling, better docs, and safer release paths
+
+### Tools I use often
 
 AWS · Kubernetes · Python · TypeScript · Shell · Docker · Terraform · Jsonnet · PostgreSQL · Redis
-
-### Operating principles
-
-- Prefer reliable, observable systems over clever automation
-- Keep production access controlled, auditable, and reversible
-- Turn incidents into better runbooks, tooling, and platform defaults
 
 ### GitHub snapshot
 
