@@ -1,4 +1,4 @@
-<h1 align="left">Hank Yan <code>yanyx</code></h1>
+<h1 align="left">Hank Yan</h1>
 
 <p>
   <strong>Cloud Infrastructure / SRE / AI-assisted Operations</strong><br />
